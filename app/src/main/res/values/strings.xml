@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora de Dividendos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="present_value_label">Valor Presente</string>
+    <string name="interest_rate_label">% Juros a.m</string>
+    <string name="months_label">Tempo em meses</string>
+    <string name="btn_calculate_label">Calcular</string>
+    <string name="future_value_label">Valor futuro</string>
+    <string name="future_menu_label">Valor Futuro</string>
+    <string name="present_menu_label">Valor presente</string>
+    <string name="memory_menu_label">Histórico</string>
+    <string name="future_fragment_label">Calcular valor futuro</string>
+    <string name="present_fragment_label">Calcular valor presente</string>
+    <string name="label_present_value">Valor presente:</string>
+    <string name="label_future_value">Valor futuro:</string>
+    <string name="label_interest_rate">Juros a.m (%)</string>
+    <string name="label_months">Meses investidos</string>
+    <string name="label_operation">Operação</string>
+    <string name="memory_label">Histórico de cálculos</string>
+</resources>
